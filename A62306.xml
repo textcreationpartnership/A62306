@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scarlet beast stripped naked, being the mistery of the meal-tub the second time unravelled, or, A brief answer to the popish-midwives scandalous narrative, intituled Mallice defeated, &amp;c ...</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62306</idno><idno type="EEBO-CITATION">12066356</idno>
+  <idno type="VID">53366</idno>
+  <idno type="EEBO-PROQUEST">2240961265</idno>
+  
+            <idno type="STC">Wing S826</idno>
+            <idno type="STC">ESTC R23261</idno>
+            <idno type="OCLC">12066356</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62306)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 822:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scarlet beast stripped naked, being the mistery of the meal-tub the second time unravelled, or, A brief answer to the popish-midwives scandalous narrative, intituled Mallice defeated, &amp;c ...</title>
+               </titleStmt>
+               <extent>4, 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Publication date taken from BM.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cellier, Elizabeth, fl. 1680. --  Malice defeated.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb n="1" facs="tcp:53366:1"/>
+            <p>THE SCARLET BEAST Stripped Naked, Being the <hi>Mistery of the Meal-Tub</hi> The second time Unravelled; Or a Brief ANSWER To the Popish-Midwives scandalous NARRATIVE, <hi>Intituled Mallice defeated, &amp;c.</hi>
+            </p>
+            <p>Wherein She not only abuses and casts vile aspersions on the Kings Evidence to make them odious, but upon Sir <hi>William Waller,</hi> the Right Honou<g ref="char:EOLhyphen"/>rable the Earl of <hi>Shaftsbury</hi> and several other Persons of Quality, and in General upon the whole Protestant Goverment.</p>
+            <p>By packing together notorious falshoods and Romish Absurdities thereby to delude the ignorant, and turn the whole scope of the late Hellish-Plot upon the Presbiterians. With several Ob<g ref="char:EOLhyphen"/>servations upon the plausable pretences of the Romish-Faction, which they Alledg to delude the unthinking Vulgar; and to make the World believe them Innocent.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet,</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:53366:2"/>
+            <head>The Scarlet-Beast stripped Naked.</head>
+            <p>THe Reverend Matron after a tedious strugling with the unmannerly Fates, having broken through the bottom of the Meal-Tub, is become a more terrible Champion in the behalf of Roman-Catholicks than the most ac<g ref="char:EOLhyphen"/>complished of their Saints; or all the Sturdy Pil ars of their Church, since their Female-Prelate dropped her untimely Bastard in Procession to <hi>Angello.</hi> For cloaking her self in pretended Innocense, the Devils own Mantle, she ever since has carried an Olive-Branch in her Mouth, as a sure Pledg of her being at Peace, and wish<g ref="char:EOLhyphen"/>ing well to that Infernal Potentate; promising faithfully by her Motto, never more for to displease him, or neglect his grand Affair: but to use her utmost Interest conti<g ref="char:EOLhyphen"/>nually, to send good store of guest to his Tartarian Mansion, since he has been so kind as to instruct her how to guild over the blackest Crimes, and make them seem most plausably <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>air, thereby to deliude the Ignorant, and b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> berea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing them of their Wits; poss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss them with a Catalogue of her Vertues and harmless Life (Honest I might have said) but 'tis no matter, that wee'l refer to Mr. <hi>Dangerfield,</hi> her late dear Intimate, though now ungrateful as she is, she will not own the kindnesses received, but falls foul upon him at a grievous Rate, because that he would do no more. But to the purpose, First let us begin with her Gim-Crack, and take a serious View of the fine Frontispiece that adorns the work, which stands just as the Antients were used to paint the Porch or entrance of Falshood, Fair and Beautiful, the better to delude or draw the ignorant to gaze upon, till all suspicion of the Evil lodged therein was Banished from their Minds, that so they might the boldlier enter.</p>
+            <p>First then the Mist<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry of the Meal-Tub that has defeated all this Mallice, and made so many Lyars is dedicated to all the lovers of undisguised Truth, which indeed is seldome or never cloathed, unless it be in a Roman Dress, or wrapped o're Head and Ears in the Relict of Equivocation, till it grew invisible, or in St. <hi>Francis</hi> Cool of Mental-Reservation. These indeed are things that often make her walk in Mists, who otherwise in her naked purity looks most decent and still Triumphs in her Innocence.</p>
+            <p>The next we are re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>resented with, is th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Emblem of the sweet fac'd Gentlewoman, or rather (<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f she cou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d per<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wade u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to it) her proper self transubstantiated into a Dove. But now the Disp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e is, whether it be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Turtl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dove or not, for they are held the Chastest Birds Created, therefore most unseemly, for this place, if Mrs. <hi>Susan</hi> her own Servant swor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Truth. But l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that pass <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce the Pope allows such Venial Sins, such petty <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>The next his Holinesses Cross, that heretofore was wont to fright the Devil from the Dead, on which the pretty innocent Tom-Pigion Pearches with an Olive-Branch in its Bill; not altogether unmindful of the usage late in <hi>Newgate,</hi> for about his left Leg a Rope is fastned, and to that an Anchor, resting on <hi>Romes</hi> seven Hills, as not remem<g ref="char:EOLhyphen"/>bring how fatal <hi>Primrose-Hill</hi> has been. Next five Litter-Cresses more, to the dear memory of the five Cross Adorers in the Sheep-Pens, between <hi>Westminster</hi> and <hi>Limus,</hi> with <hi>(I ne<g ref="char:EOLhyphen"/>ver Change)</hi> the same Inscription that the kind Matron sent to <hi>Dangerfield,</hi> during his Confinement, to give thereby to understand that she was no <hi>Proteus,</hi> but had rather be what she was than an Elephant; and round about thse pretty whimwhams, incerted this stolen Verse, that was written by the well-meaning Author to a better Intent. <hi>(Dat veniam corvus vexat censura Columbus)</hi> In English thus, <hi>The Guilty go free, and the Inno<g ref="char:EOLhyphen"/>cent are oppressed.</hi> But how the overweaning Female came to chuse this to strike her self so hard a Box on the Ear is not certain; or perhaps it is to be said, backwards, as the Friers and Moncks do their Mattins for Roasted Apples in a Winters Morning; or most likely, that her Father-Confessor stuft it in the better to ingratiate himself into her good Opinion; and so keep himself warm between the Sheets when the old Man is packed away to <hi>France:</hi> Thus far of the Frontispiece, or out-work, now let us enter in and see what fine Trumpery the Priest has pack'd together and fathered it under the Prote<g ref="char:EOLhyphen"/>ction of their she-Saint.</p>
+            <p>The first we meet with, is a long Apology of faithful Service good wishes and Pro<g ref="char:EOLhyphen"/>testation of Loyalty which like the Syrians Songs, or Crocadiles Tears is presented to allure and take the Ears and fancies of the unthinking Vulgar, when all Rational and sober persons know, that there is no such thing as Loyalty appertaining to the Popish Religion, that is, as Loyalty to any Protestant Prince: For the Church of <hi>Rome</hi> holds those most accursed, that will not to the utmost of their powers endeavour to Assassi<g ref="char:EOLhyphen"/>nate, Murther and Root out all that are opposite to their superstitions and Idolatries.
+<pb n="3" facs="tcp:53366:2"/> Killing of Kings, being accounted by them, meritorious; and Massacries the only means to gain Heaven; and that they are to omit no opportunities to raise Rebellion against an Hretical Prinee; as they most erroniously call the best of Kings, if they can do it without prejudicing their own Cause or Interest.</p>
+            <p>The next thing to be observed is, after they have made their Apology to turn their stings against the first discovere<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of the Plot, thinking thereby to lessen and impair the credit of their Testimonies with incredible lyes, as of Dr. <hi>Oates</hi> his being robbed by Captain <hi>Bedlow,</hi> and that he not being content with that, but he must fall upon one of <hi>Romes</hi> bald pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Priests and rob him of his Bread and Chese: And another of their Tribe of Eight pence; the former of these A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions the Doctor utterly denys, and the latter how true, eve<g ref="char:EOLhyphen"/>ry one that hath but any spark of reason may judge: so shallow is their foolish Malice that it betrays it self. I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the next p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ace, the good Matron would have the World believe that she was wonderful Charitable, and that she almost star<g ref="char:EOLhyphen"/>ved her self, to relieve those she never saw before, or had the least concernment with; and then again, how that she went about a beging for them, but whither with a Bask t at her back or no is not certain, then stoping here she falls fowl upon <hi>Newgate</hi> her own long rented Mansion; swearing, That the <hi>Spanish Inqui<g ref="char:EOLhyphen"/>sition</hi> was got thither, and that they used worse wracks and tortures there, than Popish <hi>Spain</hi> did to the poor Indians, or by the Popes command were used in <hi>Flanders, Piedmont, Bohomia, Albegentia</hi> or <hi>Waldentia;</hi> nay our <hi>Marean</hi> Per<g ref="char:EOLhyphen"/>secutions were but slight to what was used against imprisoned Catholicks, for you must observe, that none but Catholicks suffer in <hi>Newgate,</hi> or any other place whatsoever; the horror of which so affrighted the Keeper that he run Mad, and had l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke to run over her for haste: and that this person that was so tor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ured upon the wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck was Mr. <hi>Praunce,</hi> and that after he had been wracked he was able to caper with about forty pound of I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on about his legs, and how he being brought into the Lodg was heard by a grave Antiquated Catholick gentlewoman to protest, That he knew nothing of the Plot, and what he had said was all lies, and extorted from him which made them fall to work with him aga n; so th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he bellowed out so loud you might have heard him, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to <hi>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me,</hi> to the end of the <hi>Old Baily</hi> at least: and that not prevailing with him to tell lies of the Innocent Catholicks; he was tickled off the third time, and a Minister stood by to see him fairly tortured, and that being let loose again, he tore a hole in his bed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icking to hide himself from his unmerciful tormentor, where being found, rather than he would endure the fourth bout, was resolved to damn his Soul in swearing things he never knew against the harmless Ca<g ref="char:EOLhyphen"/>tholicks So grosl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do these kind of People endeavour to insinuate into the minds of their own bigots to lessen their barbarities by making, or at least, per<g ref="char:EOLhyphen"/>swading S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rangers that we act Cruelties beyond the Turkes, and that the Sla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in Algiers live in Paradice to what the Persecuted Catholicks do in <hi>En<g ref="char:EOLhyphen"/>gland.</hi> When every one knows, that they devour the fat of the Land, and feed their Dogs with what a thousand better Christans then themselves would be glad of. In the next place to make Justice more odious, and to Affront his Majesties benigne mercy and goodness towa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds his poor miserable Subjects con<g ref="char:EOLhyphen"/>demn'd at several times for their offences this Popish Romancer would make peo<g ref="char:EOLhyphen"/>ple believe, that his Majesties pleasure is not in the least observed therein, and that Captain <hi>Richards<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> if he please to Hang them or Transport them will do it in defience of his Majesties gracious Pardon and that to extort Mony out of them he often goes to them telling them, That if they will raise such a sum of money, he will prevail with the Recorder to get them included in a general Pardon: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut if they have not the mony, nor cannot raise it, they shall be surely Hang'd; and all this is devised only to stifle <hi>Romes</hi> cruelties by magnifying or relating what was never done or thought. Such a Collection of horrid ingines and instruments for Tortures are in this admirable piece incerted, that I believe
+<pb n="4" facs="tcp:53366:3"/> the <hi>Span<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh</hi> S ips <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontained not when they came fraught with all the malice of Hell and <hi>Rome</hi> to murther a rightful Prince, and to destroy two Kingdoms: but these aspersions and scandals seeming too little, their gall swells higher, and to strike sure she pitches upon the right Honorable the Earl of <hi>Shaf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbury,</hi> and by so doing betr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ys her Popish Spleen, first that his Lordship should by his Ser<g ref="char:EOLhyphen"/>vant tamper with one <hi>Stroud</hi> a Prisoner in <hi>Newgate</hi> condemned for Murther, offering last sums of Money, if he would Swear against the Catholicks right or wrong and not only by him, but by Mr. <hi>Stringar</hi> his Steward, and by one <hi>Ed<g ref="char:EOLhyphen"/>ward Sro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> an Attorney; who came often to Importune and solicit to declare against the Lords in the <hi>Tower</hi> and several other things he never knew, promi<g ref="char:EOLhyphen"/>sing in his Lordships name, that thereupon he should be saved, Pardoned and several parcels of Gold was offered, but he refused all saying, he would not for<g ref="char:EOLhyphen"/>swear himself for ten thousand Worlds: how this can be believed, by any that know his Lordship I leave the Reader to judge; for any one that consider? how he has ever dealt upright and to his Power maintained Truth and justice cannot imagine that his Lordship would go about to perswade a Murtherer either by himself of any from him to swear falsly against a person that had no ways iniured him nor the least suspition of grudge remaining; so that this is purely out of envy, to blast or rule out the good opinion of all true Protestants have worthily concei<g ref="char:EOLhyphen"/>ved of his Lordships high deserts, the which the Popes Chickens can never race out of true English Breasts, his Lordships Integrity and Zeal, being ever for the preservation of his Maiesty, and the protestant Religion: so that though the Scarlets beast himself who sits sweating on his Mountains, and fends Mid-Wives out to reap his Abo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tive Crop, should come himself to lay a blemish on his Candid Reputation his Infallibilityship will be laughed and hooted at by each Oyster Wench and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ink-Boy; for sure it is that all their adverse contriving to stifle this notorious Plot, have hitherto been so weak and silly, that their Cob-Web Vail, rather give suspition that there is more yet remaining, than has been dis<g ref="char:EOLhyphen"/>covered to the World, then any way extenuate or lessen, for were not people guilty, they would never put themselves unto such shifts to shake of or turn ano<g ref="char:EOLhyphen"/>ther way the thing that never was, nor offer Bribes, so large as has been sworn against them to corrupt Evidence if they were Innocent.</p>
+            <p>That <hi>Rome</hi> has layd many Plots against this Nation hereto<g ref="char:EOLhyphen"/>fore, I hope few or none are Ignorant? And why should Roman Catholicks be thought more concious and tender than hereto<g ref="char:EOLhyphen"/>fore, that Church holds its Supremacy by Tyranny not Law, is palpable, nay many of their Doctors, have themselves confes<g ref="char:EOLhyphen"/>sed the same, nay this suffices not, but our Wonderful witty thing of a Mid-Wife, or a priest got into her Belly, and so speak<g ref="char:EOLhyphen"/>ing through her; as the Devil through the Heathen Oracles, of old, has produced such a rout of Embrion Pupils or St. <hi>Omerians</hi> to make Shot against the Kings Evidence, that any one would think she had robbed half the Register Books in twenty Parishes to furnish them with Names, tis well she tells us she found most of them in several Goals, or else we should have doubted whe<g ref="char:EOLhyphen"/>ther she would have been forced to have gone as far as <hi>Rome,</hi> there to have culled the Monasteries and Abbys, for Pickled Rogues, ere she could have found any convenient for her turn, first against Captain <hi>Bedloe,</hi> she musters up a rout of despera<g ref="char:EOLhyphen"/>does,
+<pb n="1" facs="tcp:53366:3"/> lying in <hi>Newgate</hi> and other Goals under Condemnation, as that to joyn him with Mr. <hi>Johnson</hi> the Earl of <hi>Shaftsbury</hi>'s, man, as a party in endeavouring to bribe <hi>Strode,</hi> and to bring him over to unite his Evidence with his whether false or true, and that thereby he should be highly advanced, giving him thereupon several Guineys for incouragement, but if he refused he was to be hanged and not to have the benefit of his Pardon that was then granted him by his Majesty, his first work being to undermine <hi>Anderson</hi> and <hi>Kemish</hi> two Romish Priests, how this can agree is hard to be understood, for first it seems pretty odd that <hi>Bedloe</hi> being one of the Kings approved Evidence, and having given his Depositions not only before the King and Council, but also in the high Court of Parliament, would venture to un<g ref="char:EOLhyphen"/>bosome his thoughts to a notorious Murtherer, a fellow he had never seen before 'tis sure he would (if he had any Sence and Reason in him as all Nations is well satisfyed he had) have been more cautious what ever old Women fancy to themselves, or would have others to believe perhaps as many others did; no doubt this <hi>Strode</hi> to get some of the Catholick Coin might tell mother Midnight some such pleasing tale as knowing her great Zeal to bring the Plot to Bed, or perhaps she might Dream of some such thing lying alone poor Heart, but not contented her, having got her dear beloved <hi>Dangerfeild</hi> out of Prison, and pay<g ref="char:EOLhyphen"/>ed as she says five pounds for hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> discharge she is resolved to use him night and day, and at the vast expence of three pound ten shillings or thereabout, new riggs him and sends him as a Scout about the Town, intending by him to forge a new device and turn the <hi>Anti-Christian</hi> Plot upon the <hi>Presbyterians,</hi> furnished him with Coin diped in Holy-water, for the self same purpose to make him less suspicious ordering him to frequent Clubs and publick Meetings not only in <hi>London,</hi> but in <hi>W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stminster,</hi> and several other places; and to be very diligent to hear how affairs went, and to wr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te down what Discourse he heard about In<g ref="char:EOLhyphen"/>treagues of State in this particular the reverend Matron has broak the Cockatrices Egg, and let the Poisonous Serpent out; for what can be more plain then that her main end in this was only to learn Intelligence how people stood affected and to be fully sa<g ref="char:EOLhyphen"/>tisfied how they relished the proceedings of the Roman Catho<g ref="char:EOLhyphen"/>licks, by that to be better instructed how to Moddel their De<g ref="char:EOLhyphen"/>signs and lay the train where it might soonest take for what else would she perswade us that she should disburse so much monies, and keep a Man in continual Pay, to loiter up and down and do nothing but spend, 'tis true, she tells you if you will be<g ref="char:EOLhyphen"/>lieve her, it was to find out the Plot the <hi>Presbiterians</hi> had on
+<pb n="2" facs="tcp:53366:4"/> Foot, out of a Zeal and Loyalty to discover them to his Maje<g ref="char:EOLhyphen"/>sty; but sure it was hard to find what never was, for by these sto<g ref="char:EOLhyphen"/>ries, each one with half an Eye may plainly see that no such thing was ever intended as she preambles out; that <hi>Dangerfield</hi> should bring her word, that he had made a Discovery of a Rising in the City, that was shortly to be, and that Mr. <hi>Godwin,</hi> and Mr. <hi>Alsop</hi> had made a great Gathering to maintain Forces pri<g ref="char:EOLhyphen"/>vately, and that many of the Old-Army-Officers were kept in Pay, and that Sir <hi>William Waller</hi> had quartered three hundred Horse in a Village near <hi>London,</hi> the which were to Head the Rabbel and bring them to seize on <hi>White-Hall.</hi> Now as to these particulars, can it be thought that any such Design can be on Foot, and neither his Majesty nor any of his Council should have the least notice of it? That none but she and <hi>Dan<g ref="char:EOLhyphen"/>gerfield</hi> should know of it, besides those that were concerned in it very 'tis strange! This was a thing that would have brought <hi>Jupiter</hi> into <hi>Gemini</hi> without her Star-Gazers consent; but had it been so, where was the Loyalty she shewed in a timely disco<g ref="char:EOLhyphen"/>very, to prevent the Danger? could hiding it in the Bottom of her <hi>Meal-Tub</hi> any ways keep it from breaking out? No, 'tis cer<g ref="char:EOLhyphen"/>tain, had not that Meal been sifted by Sir <hi>Williams</hi> Care, it had by this time turned to as many Infectious Plagues to have distra<g ref="char:EOLhyphen"/>cted the Nation, as ever <hi>Pandora</hi>'s Box contai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Yet farther, so great a Corrispondence held our Matron with several Runa<g ref="char:EOLhyphen"/>gado Spies, that nothing was done but, if she declares Truth, it was presently conveighed to her by her Familiars; who like the Penny-Posts went up and down to fetch and carry Letters fraught with all the Talk of Factious Coffe-Houses: so that she seems the only woman Living, by her own Talk, that minded the fu<g ref="char:EOLhyphen"/>ture State and welfare of the Government. For says she, some of the eminent men that kept Company with the Factious as she terms them, gave me to understand, that they had drawn For<g ref="char:EOLhyphen"/>ces into the City, during his Majesties Indisposition at <hi>Windser,</hi> with an intention, if his Majesty had died, to have subverted the Government, and that the Lord-Major and such Aldermen as would not Conform were to be made away, and that they were to have se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed the <hi>Tower, Dover, Plymouth</hi> and <hi>Hull,</hi> and several other places of Strength; and that the Scotch were to have help<g ref="char:EOLhyphen"/>ed them in the Design; this is strange indeed, but if we consi<g ref="char:EOLhyphen"/>der the right way, perhaps it was intended, as she says, for at that time there was no Faction but the Popish, and that they de<g ref="char:EOLhyphen"/>signed no less, 'tis past all doubt, for as I had almost for<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot to in<g ref="char:EOLhyphen"/>cert, where She says, that the Loyal Party feared his Majesties Decease, but the Factious hoped it, then which, nothing is plain<g ref="char:EOLhyphen"/>er,
+<pb n="3" facs="tcp:53366:4"/> fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none can take the Popish Party for the Loyal Party, see<g ref="char:EOLhyphen"/>ing it has been their whole endeavour above these hundred years to destroy our Monarchs, and subvert the Government, there<g ref="char:EOLhyphen"/>fore in this she may speak mistically. And then again, that Sir <hi>William Waller</hi> and Collonel <hi>Mansel</hi> should offer Commissions to Disbanded Officers, and that they should enter into present pay, is as strange, considering not one of them Officers are now to be found in <hi>Eu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope;</hi> no all the Popish Saints on this side Purga<g ref="char:EOLhyphen"/>tory, are not able to tell so much as the Name of one of them! Therefore we conclude, they are got into the World in the Moon, and that all the Conjurers in <hi>Westminster</hi> or <hi>Barbadoes,</hi> though they should pore upon her two-leav'd <hi>Alcharon</hi> even years together, could not cast a Figure to bring any of them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o light. Therefore my Friends I must tell you, 'tis a strange thing such a Company of men should be so suddenly blown away. But the next thing She seems to be angry with, is Sir <hi>Williams</hi> catch<g ref="char:EOLhyphen"/>ing her napping at Supper, which put her into such a Fright, as had almost made her breath her last at both ends; for She de<g ref="char:EOLhyphen"/>clares, and truely I suppose you may believe her, that She was quite out of Love with a Stone Doublet, though not with the Stones in the Breeches. Nay, a greater Bugbear than that stood in the way, which augmented that Fear, for She not long before had delivered Articles in Parliament against Captain <hi>Richardson,</hi> who was now to be her Guardian, in the behalf of the Prisoners, as She pretended; in which She rendered him more prodigious then a <hi>Cannibal,</hi> and would have the people believe he Eats no less, than half a douzen Prisoners each Morning for his Breakfast, but coming into his Custody, found him more favourable than she deserved, and has since requited him by publishing twen<g ref="char:EOLhyphen"/>ty notorious lies against him; she and <hi>Dangerfield</hi> had the hap<g ref="char:EOLhyphen"/>piness to see each other through the Window, and as she says it was the first time that e're She curst him for eating up her Bread and Cheese; a very uncharitable thing in a Woman that pretends so much. Here the Reverend Matron continued snar<g ref="char:EOLhyphen"/>ling at the Protestants (but had no power to bite them) for the space of 22 weeks, if her own Memorials say true, often Visited by her dear Acquaintance Mr. <hi>Dangerfield</hi> and Sir <hi>William Waller,</hi> whom she ill Requites for taking such peculiar Care to keep her out of the Carts way. During which time, having several times bravado'd the Coucil when she was brought upon her Examina<g ref="char:EOLhyphen"/>tions, and like a true Roman-Virago, kept Truth so deep at the Bottom, that it never durst fly in her Face. At last She recei<g ref="char:EOLhyphen"/>ved her Trial at the Kings-Bench-Bar in <hi>Westminster-Hall,</hi> where Face to Face She met her Friend the Captain, who was not as
+<pb n="4" facs="tcp:53366:5"/> She incerts, observed to tremble, but often to smile upon her for Joy to see her so brisk and blithe; but in conclusion, for want of his good Word she scaped Scotfree: but afterwards proved very unkind to her Deliverers, as she confesses, by giving two slips for a Teaster, and leaving them in the lurch.</p>
+            <l>
+               <hi>Thus have you seen <hi>Pope-Joan</hi> by far out-done,</hi>
+            </l>
+            <l>
+               <hi>Nay, from Hee-Popes she has the Miter won:</hi>
+            </l>
+            <l>
+               <hi>'Tis hers hy Merrit, who dares Argue less,</hi>
+            </l>
+            <l>
+               <hi>When this Pope dies, she shall be </hi>Prelate-Bess:</l>
+            <l>
+               <hi>Then look you to't, <hi>Romes</hi> Lubbers, for'uds Foot</hi>
+            </l>
+            <l>
+               <hi>She'l yerk your Tobies if you cannot Plot.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
